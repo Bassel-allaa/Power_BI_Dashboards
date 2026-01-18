@@ -11,8 +11,10 @@ This dashboard was designed to assist job seekers, career transitioners, and tho
 ---
 ### Dashboard File
 
-The source file for this project is available here: Data_jobs_dashboard.pbix.
-Skills Showcased
+The source file for this project is available here: [Data_jobs_dashboard.pbix.](https://github.com/Bassel-allaa/Power_BI_Dashboards/blob/main/Data_jobs_dashboard.pbix)
+---
+
+## Skills Showcased
 
 This project served as a comprehensive application of core Power BI functionalities. Below is a breakdown of the technical skills utilized:
 
