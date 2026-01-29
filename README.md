@@ -1,7 +1,7 @@
 # My Power BI Dashboard Portfolio
 
 This repository is a collection of Power BI dashboards I've developed. It tracks my journey in using and learning Power BI, from foundational reports to more advanced interactive analysis, all aimed at turning data into clear, actionable insights.
----
+
 
 # Featured Dashboards
 
@@ -25,3 +25,27 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 [**View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
 
+## Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
+
+![Data Jobs Dashboard 2.0](/images/Dashboard_2.png)
+
+**Key Power BI Skills Utilized (demonstrating progression):**
+
+* Advanced Dashboard Design (Single-Page UX & Optimization)
+* Complex Power Query Transformations
+* Star Schema Data Modeling Principles
+* Explicit DAX Measures
+* Dynamic Visualizations
+* Field & Numeric Parameter Implementation for "What-If" Analysis
+* Enhanced Geospatial Insights
+* Advanced Card Visualizations
+* Optimized Slicers & Advanced Cross-Filtering Techniques
+
+
+[**View Full project 2 Details (README)**](./Data_Jobs_v2/README.md)
+
+---
+
+## About This Portfolio
+
+Each dashboard linked above has iuts own detailed 'README.md' file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Power BI techniques used, and a closer look at the dashboard build
